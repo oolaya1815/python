@@ -10,4 +10,4 @@ El módulo ImageFilter contiene definiciones para un conjunto predefinido de fil
 
 ```PIL.ImageFilter.FIND_EDGES()```: detección de bordes que se implementa mediante una convolución de un núcleo específico con la imagen
 
-![img](https://github.com/oolaya1815/python/blob/main/PIL.PNG?raw=true)
+![img](https://github.com/oolaya1815/python/blob/main/PIL/PIL.PNG?raw=true)
